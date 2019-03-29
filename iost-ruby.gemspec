@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["kosamit"]
   spec.email         = ["kosamit@gmail.com"]
 
-  spec.summary       = "Ruby gem for communicating with the iost"
-  spec.description   = "Ruby gem for communicating with the iost"
+  spec.summary       = "Ruby gem for interacting with a iost node"
+  spec.description   = "iost-ruby is a collection of libraries which allow you to interact with a local or remote iost node via a HTTP connection."
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 

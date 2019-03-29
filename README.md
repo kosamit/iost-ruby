@@ -1,8 +1,8 @@
-# Iost::Ruby
+# iost-ruby
+![iost-logo](https://user-images.githubusercontent.com/653729/55229201-aa0f2200-525f-11e9-97d1-33684d8a0088.png)
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/iost/ruby`. To experiment with that code, run `bin/console` for an interactive prompt.
+iost-ruby is a collection of libraries which allow you to interact with a local or remote iost node via a HTTP connection.
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
